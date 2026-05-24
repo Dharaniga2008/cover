@@ -271,6 +271,6 @@ h1{
 
 
 
-## RESULT:
-//Dharaniga S (212225040068)
+## RESULT: Dharaniga S (212225040068)
+
 The program for designing book front cover page using HTML and CSS is completed successfully.
