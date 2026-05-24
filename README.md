@@ -267,7 +267,8 @@ h1{
 
 ## OUTPUT:
 
-![alt text](vijay/bookapp/static/mypic.jpeg)
+![alt text](<vijay/bookapp/static/cover page.jpeg>)
+
 
 
 ## RESULT:
