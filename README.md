@@ -267,7 +267,8 @@ h1{
 
 ## OUTPUT:
 
-vijay/bookapp/static/mypic.jpeg
+![alt text](vijay/bookapp/static/mypic.jpeg)
+
 
 ## RESULT:
 //Dharaniga S (212225040068)
